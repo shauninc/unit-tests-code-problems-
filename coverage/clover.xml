@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1659013737849" clover="3.2.0">
+  <project timestamp="1659013737849" name="All files">
+    <metrics statements="43" coveredstatements="43" conditionals="18" coveredconditionals="18" methods="11" coveredmethods="11" elements="72" coveredelements="72" complexity="0" loc="43" ncloc="43" packages="2" files="10" classes="10"/>
+    <package name="codewars">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="1-hello-world.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/codewars/1-hello-world.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="technigo">
+      <metrics statements="42" coveredstatements="42" conditionals="18" coveredconditionals="18" methods="10" coveredmethods="10"/>
+      <file name="1-multiplication.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/1-multiplication.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="2-first-last.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/2-first-last.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+      <file name="3-find-index.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/3-find-index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+      <file name="4-angle-calculator.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/4-angle-calculator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+      <file name="5-month-name.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/5-month-name.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+      <file name="6-filter-numbers.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/6-filter-numbers.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+      </file>
+      <file name="7-is-empty.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/7-is-empty.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="8-hacker-speak.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/8-hacker-speak.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="100" type="stmt"/>
+        <line num="6" count="100" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="38" type="stmt"/>
+        <line num="9" count="100" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+      </file>
+      <file name="9-hashtags.js" path="/Users/shaun/Desktop/Code/testing/unit-tests-code-problems/technigo/9-hashtags.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
